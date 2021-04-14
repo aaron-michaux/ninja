@@ -1,3 +1,9 @@
+# About
+
+I like ninja, but wasn't quite on board with the output. This version of Ninja is identical, except for the output format.
+
+# Ninja README
+
 Ninja is a small build system with a focus on speed.
 https://ninja-build.org/
 
